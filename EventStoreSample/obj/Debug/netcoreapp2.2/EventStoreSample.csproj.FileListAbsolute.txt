@@ -1,0 +1,17 @@
+C:\Users\younes.bachaeimoghad\source\repos\EventStoreSample\EventStoreSample\bin\Debug\netcoreapp2.2\EventStoreSample.deps.json
+C:\Users\younes.bachaeimoghad\source\repos\EventStoreSample\EventStoreSample\bin\Debug\netcoreapp2.2\EventStoreSample.runtimeconfig.json
+C:\Users\younes.bachaeimoghad\source\repos\EventStoreSample\EventStoreSample\bin\Debug\netcoreapp2.2\EventStoreSample.runtimeconfig.dev.json
+C:\Users\younes.bachaeimoghad\source\repos\EventStoreSample\EventStoreSample\bin\Debug\netcoreapp2.2\EventStoreSample.dll
+C:\Users\younes.bachaeimoghad\source\repos\EventStoreSample\EventStoreSample\obj\Debug\netcoreapp2.2\EventStoreSample.csprojAssemblyReference.cache
+C:\Users\younes.bachaeimoghad\source\repos\EventStoreSample\EventStoreSample\obj\Debug\netcoreapp2.2\EventStoreSample.csproj.CoreCompileInputs.cache
+C:\Users\younes.bachaeimoghad\source\repos\EventStoreSample\EventStoreSample\obj\Debug\netcoreapp2.2\EventStoreSample.RazorAssemblyInfo.cache
+C:\Users\younes.bachaeimoghad\source\repos\EventStoreSample\EventStoreSample\obj\Debug\netcoreapp2.2\EventStoreSample.RazorAssemblyInfo.cs
+C:\Users\younes.bachaeimoghad\source\repos\EventStoreSample\EventStoreSample\obj\Debug\netcoreapp2.2\EventStoreSample.AssemblyInfoInputs.cache
+C:\Users\younes.bachaeimoghad\source\repos\EventStoreSample\EventStoreSample\obj\Debug\netcoreapp2.2\EventStoreSample.AssemblyInfo.cs
+C:\Users\younes.bachaeimoghad\source\repos\EventStoreSample\EventStoreSample\obj\Debug\netcoreapp2.2\EventStoreSample.RazorTargetAssemblyInfo.cache
+C:\Users\younes.bachaeimoghad\source\repos\EventStoreSample\EventStoreSample\bin\Debug\netcoreapp2.2\EventStoreSample.pdb
+C:\Users\younes.bachaeimoghad\source\repos\EventStoreSample\EventStoreSample\obj\Debug\netcoreapp2.2\EventStoreSample.dll
+C:\Users\younes.bachaeimoghad\source\repos\EventStoreSample\EventStoreSample\obj\Debug\netcoreapp2.2\EventStoreSample.pdb
+C:\Users\younes.bachaeimoghad\source\repos\EventStoreSample\EventStoreSample\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\younes.bachaeimoghad\source\repos\EventStoreSample\EventStoreSample\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\younes.bachaeimoghad\source\repos\EventStoreSample\EventStoreSample\obj\Debug\netcoreapp2.2\EventStoreSample.csproj.CopyComplete
